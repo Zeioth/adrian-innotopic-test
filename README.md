@@ -1,6 +1,6 @@
 # Base project
 
-This is an angular+grapthql+apollo+graphql example that performs CRUD operations.
+This is an angular+apollo+graphql example that performs CRUD operations.
 
 
 
